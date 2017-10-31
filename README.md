@@ -1,2 +1,2 @@
 # write-LE
-Write proper in little-endian byte order
+Write in proper little-endian byte order
